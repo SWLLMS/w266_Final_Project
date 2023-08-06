@@ -5,8 +5,8 @@ All relevant documents created/used for our final NLP project for w266 Summer 20
 Authors: Vincent Goldberg & Samantha Williams
 
 Folders: 
-Data
-EDA Notebooks
-Notebooks
-Project Proposal and Paper Outline
-Tables and graphs
+Data,
+EDA Notebooks,
+Notebooks,
+Project Proposal and Paper Outline, &
+Tables and graphs.
